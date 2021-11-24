@@ -1,0 +1,18 @@
+{
+  "theme": "birthday",
+  "location": "kitchen",
+  "time": 2021,
+  "participants": [
+    {
+      "name": "Alice",
+      "allergies": [
+        "eggs",
+        "milk"
+      ]
+    },
+    {
+      "name": "Bob",
+      "allergies": []
+    }
+  ]
+}
